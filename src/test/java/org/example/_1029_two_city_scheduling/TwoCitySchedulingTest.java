@@ -1,6 +1,5 @@
 package org.example._1029_two_city_scheduling;
 
-import org.example._704_binary_search.BinarySearch;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
