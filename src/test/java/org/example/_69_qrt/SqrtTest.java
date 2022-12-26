@@ -1,4 +1,4 @@
-package _69_qrt;
+package org.example._69_qrt;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

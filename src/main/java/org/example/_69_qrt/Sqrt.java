@@ -1,4 +1,4 @@
-package _69_qrt;
+package org.example._69_qrt;
 
 public class Sqrt {
 
