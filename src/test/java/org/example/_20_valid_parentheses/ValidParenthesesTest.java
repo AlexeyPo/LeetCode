@@ -1,5 +1,6 @@
 package org.example._20_valid_parentheses;
 
+import org.example.stack._20_valid_parentheses.ValidParentheses;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

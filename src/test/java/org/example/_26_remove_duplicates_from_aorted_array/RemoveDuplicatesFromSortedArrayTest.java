@@ -1,5 +1,6 @@
 package org.example._26_remove_duplicates_from_aorted_array;
 
+import org.example.array_string._26_remove_duplicates_from_aorted_array.RemoveDuplicatesFromSortedArray;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

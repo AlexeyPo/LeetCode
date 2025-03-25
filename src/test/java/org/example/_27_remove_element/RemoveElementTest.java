@@ -1,5 +1,6 @@
 package org.example._27_remove_element;
 
+import org.example.array_string._27_remove_element.RemoveElement;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

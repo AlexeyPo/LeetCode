@@ -1,5 +1,6 @@
 package org.example._242_valid_anagram;
 
+import org.example.hashmap._242_valid_anagram.ValidAnagram;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

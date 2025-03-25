@@ -1,5 +1,6 @@
 package org.example._69_sqrt;
 
+import org.example.math._69_sqrt.Sqrt;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

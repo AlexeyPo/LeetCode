@@ -1,5 +1,6 @@
 package org.example._136_single_number;
 
+import org.example.bit_manipulation._136_single_number.SingleNumber;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

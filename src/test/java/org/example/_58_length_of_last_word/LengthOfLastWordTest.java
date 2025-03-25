@@ -1,5 +1,6 @@
 package org.example._58_length_of_last_word;
 
+import org.example.array_string._58_length_of_last_word.LengthOfLastWord;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

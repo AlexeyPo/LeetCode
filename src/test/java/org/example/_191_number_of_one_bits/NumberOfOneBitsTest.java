@@ -1,5 +1,6 @@
 package org.example._191_number_of_one_bits;
 
+import org.example.bit_manipulation._191_number_of_one_bits.NumberOfOneBits;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,5 +1,6 @@
 package org.example._125_valid_palindrome;
 
+import org.example.two_pointers._125_valid_palindrome.ValidPalindrome;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
