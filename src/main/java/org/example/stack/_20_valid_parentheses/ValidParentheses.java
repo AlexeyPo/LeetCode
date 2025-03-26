@@ -9,25 +9,23 @@ public class ValidParentheses {
         Stack<Character> stack = new Stack<>();
 
         for (Character ch : s.toCharArray()) {
-            if (ch.equals('(') || ch.equals('{') || ch.equals('[')) {
-                stack.push(ch);
-                continue;
-            }
-            if (stack.isEmpty()) {
-                return false;
-            }
-
-            if (ch.equals(')') && stack.peek().equals('(')) {
-                stack.pop();
-            } else if (ch.equals('}') && stack.peek().equals('{')) {
-                stack.pop();
-            } else if (ch.equals(']') && stack.peek().equals('[')) {
-                stack.pop();
-            } else {
-                return false;
+            switch (ch) {
+                case '(', '{', '[' -> stack.push(ch);
+                case ')', '}', ']' -> {
+                    if (stack.isEmpty() || !matches(stack.pop(), ch)) {
+                        return false;
+                    }
+                }
+                default -> {}
             }
         }
         return stack.isEmpty();
+    }
+
+    private boolean matches(char open, char close) {
+        return (open == '(' && close == ')') ||
+               (open == '{' && close == '}') ||
+               (open == '[' && close == ']');
     }
 
 }
