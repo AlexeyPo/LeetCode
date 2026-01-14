@@ -1,4 +1,4 @@
-package org.example.two_pointers._189_rotate_array;
+package org.example.array_string._189_rotate_array;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

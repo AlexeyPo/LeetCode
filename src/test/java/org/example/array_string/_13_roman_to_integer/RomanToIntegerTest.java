@@ -1,6 +1,5 @@
-package org.example._13_roman_to_integer;
+package org.example.array_string._13_roman_to_integer;
 
-import org.example.array_string._13_roman_to_integer.RomanToInteger;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

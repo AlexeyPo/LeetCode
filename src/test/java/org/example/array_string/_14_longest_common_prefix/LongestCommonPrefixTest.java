@@ -1,6 +1,5 @@
-package org.example._14_longest_common_prefix;
+package org.example.array_string._14_longest_common_prefix;
 
-import org.example.array_string._14_longest_common_prefix.LongestCommonPrefix;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

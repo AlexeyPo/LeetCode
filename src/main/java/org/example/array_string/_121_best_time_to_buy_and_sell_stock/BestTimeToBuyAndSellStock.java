@@ -1,4 +1,4 @@
-package org.example._121_best_time_to_buy_and_sell_stock;
+package org.example.array_string._121_best_time_to_buy_and_sell_stock;
 
 public class BestTimeToBuyAndSellStock {
 

@@ -1,6 +1,5 @@
-package org.example._80_remove_duplicates_from_sorted_array_second;
+package org.example.array_string._80_remove_duplicates_from_sorted_array_second;
 
-import org.example.array_string._80_remove_duplicates_from_sorted_array_second.RemoveDuplicatesFromSortedArraySecond;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

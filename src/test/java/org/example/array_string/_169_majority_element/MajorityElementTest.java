@@ -1,6 +1,5 @@
-package org.example._169_majority_element;
+package org.example.array_string._169_majority_element;
 
-import org.example.array_string._169_majority_element.MajorityElement;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
